@@ -1,5 +1,14 @@
 const charactersAPI = new APIHandler('http://localhost:8000');
 
+const character={
+  "id": 5,
+  "name": "Superman",
+  "occupation": "saves lives",
+  "weapon": "Gotham",
+  "cartoon": true
+}
+
+
 window.addEventListener('load', () => {
   document.getElementById('fetch-all').addEventListener('click', function (event) {
 
