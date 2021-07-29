@@ -1,32 +1,39 @@
 {
   "characters": [
     {
-      "id": 1,
-      "name": "Han Solo",
-      "occupation": "Smuggler",
-      "weapon": "Blaster Pistol",
-      "cartoon": true
+      "name": "Harry Potter",
+      "occupation": "Wizard",
+      "weapon": "wand",
+      "cartoon": "on",
+      "id": 2
     },
     {
-      "id": 2,
-      "name": "Luke Skywalker",
-      "occupation": "Jedi Knight",
-      "weapon": "Lightsaber",
-      "cartoon": false
+      "name": "VOldemort",
+      "occupation": "wizard",
+      "weapon": "wand",
+      "cartoon": true,
+      "id": 3
     },
     {
-      "id": 3,
-      "name": "Sponge Bob",
-      "occupation": "Lives under the sea",
-      "weapon": "Crabby Patty",
-      "cartoon": true
+      "name": "Johanna",
+      "occupation": "Coder",
+      "weapon": "MacBook",
+      "cartoon": false,
+      "id": 6
     },
     {
-      "id": 4,
-      "name": "Superman",
-      "occupation": "saves lives",
-      "weapon": "Gotham",
-      "cartoon": true
+      "name": "Jacki Chan",
+      "occupation": "figther",
+      "weapon": "hands",
+      "cartoon": false,
+      "id": 7
+    },
+    {
+      "name": "Chuck Norries",
+      "occupation": "ranger",
+      "weapon": "yes",
+      "cartoon": false,
+      "id": 8
     }
   ]
 }
